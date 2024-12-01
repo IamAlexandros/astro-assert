@@ -1,0 +1,21 @@
+{
+  "name": "astro-assert",
+  "module": "src/index.ts",
+  "type": "module",
+  "version": "1.0.0",
+  "author": {
+    "email": "alexandrosdev@duck.com",
+    "name": "Alexandros",
+    "url": "https://github.com/IamAlexandros"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
