@@ -3,7 +3,7 @@
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
   "type": "module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Proper Assertions for Astro Endpoints",
   "repository": "IamAlexandros/astro-assert",
   "keywords": [
