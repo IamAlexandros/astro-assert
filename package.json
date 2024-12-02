@@ -2,7 +2,16 @@
   "name": "astro-assert",
   "module": "src/index.ts",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "description": "Proper Assertions for Astro Endpoints",
+  "repository": "IamAlexandros/astro-assert",
+  "keywords": [
+    "astro",
+    "assert",
+    "endpoint",
+    "api",
+    "withastro"
+  ],
   "author": {
     "email": "alexandrosdev@duck.com",
     "name": "Alexandros",
